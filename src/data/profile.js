@@ -4,7 +4,6 @@ export const profile = {
   title: 'Cloud / DevOps Engineer',
   email: 'rlarlduf9435@gmail.com',
   github: 'https://github.com/Kim-Ki-yeol',
-  phonenumber : '010-9694-9433',
   photo: 'profile-photo.jpg'
 };
 
