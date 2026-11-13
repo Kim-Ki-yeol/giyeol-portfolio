@@ -57,6 +57,16 @@ export function Contact() {
 
       <a
         class="card contact-item"
+        href = "teal://call?${profile.phonenumber}"
+      >
+        <div>
+          <small>전화번호</small>
+          <b>${profile.phonenumber}</b>
+          </div>
+        </a>
+        
+      <a
+        class="card contact-item"
         href="${profile.github}"
         target="_blank"
         rel="noopener noreferrer"

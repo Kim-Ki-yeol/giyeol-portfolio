@@ -4,11 +4,13 @@ export const profile = {
   title: 'Cloud / DevOps Engineer',
   email: 'rlarlduf9435@gmail.com',
   github: 'https://github.com/Kim-Ki-yeol',
+  phonenumber : '010-9694-9433',
   photo: 'profile-photo.jpg'
 };
 
 export const education = [
-  { period: '2026.10.01 — 2026.10.31', name: '아주대학교 AI 개발자 과정 고급', detail: '청년도약부트캠프 (진행 중)' },
+  { period: '2026.11.09 - 2026.11.19',  name: '아주대학교 AI 서비스 전문가 중급과정' , detail: '청년도약부트캠프'},
+  { period: '2026.10.01 — 2026.10.31', name: '아주대학교 AI 개발자 과정 고급', detail: '청년도약부트캠프' },
   { period: '2026.09.07 — 2026.09.21', name: '아주대학교 AI 개발자 과정 중급', detail: '청년도약부트캠프' },
   { period: '2025.12 — 2026.07', name: 'KT Cloud 클라우드 인프라 전문가 양성 과정', detail: '클라우드 인프라 및 자동화' },
   { period: '2024.03 — 2026.02', name: '한신대학교 컴퓨터공학부', detail: '졸업 · 3.99 / 4.5' },
